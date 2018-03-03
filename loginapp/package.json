@@ -1,0 +1,22 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "a simple login app",
+  "main": "index.js",
+  "scripts": {
+    "dev:": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Devil1908/loginapp.git"
+  },
+  "author": "Archisman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devil1908/loginapp/issues"
+  },
+  "homepage": "https://github.com/Devil1908/loginapp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
